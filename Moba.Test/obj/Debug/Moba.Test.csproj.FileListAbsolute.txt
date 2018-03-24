@@ -1,0 +1,14 @@
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Moba.Test.exe.config
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Moba.Test.exe
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Moba.Test.pdb
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\IoC.GameSimulation.dll
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Pixonic.TestTask.Moba.dll
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Ninject.dll
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\IoC.GameSimulation.pdb
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Pixonic.TestTask.Moba.pdb
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\bin\Debug\Ninject.xml
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\obj\Debug\Moba.Test.csprojResolveAssemblyReference.cache
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\obj\Debug\Moba.Test.csproj.CoreCompileInputs.cache
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\obj\Debug\Moba.Test.exe
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\obj\Debug\Moba.Test.pdb
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Moba.Test\obj\Debug\Moba.Test.csproj.CopyComplete
