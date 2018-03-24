@@ -1,0 +1,12 @@
+C:\Users\limae\source\repos\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\bin\Debug\Pixonic.TestTask.Moba.dll
+C:\Users\limae\source\repos\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\bin\Debug\Pixonic.TestTask.Moba.pdb
+C:\Users\limae\source\repos\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.csprojResolveAssemblyReference.cache
+C:\Users\limae\source\repos\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.csproj.CoreCompileInputs.cache
+C:\Users\limae\source\repos\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.dll
+C:\Users\limae\source\repos\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.pdb
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\bin\Debug\Pixonic.TestTask.Moba.dll
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\bin\Debug\Pixonic.TestTask.Moba.pdb
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.csprojResolveAssemblyReference.cache
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.csproj.CoreCompileInputs.cache
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.dll
+C:\Users\limae\Desktop\temp\Pixonic.TestTask.Moba\Pixonic.TestTask.Moba\obj\Debug\Pixonic.TestTask.Moba.pdb
